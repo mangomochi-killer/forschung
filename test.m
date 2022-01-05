@@ -40,5 +40,3 @@ for i=1:CMPcolpixel
          Back2ERP2D(x,y)=CMP2D(i,j);
     end
 end
-figure;
-imshow(Back2ERP2D);
